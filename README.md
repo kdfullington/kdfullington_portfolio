@@ -1,1 +1,0 @@
-# kdfullington_portfolio
