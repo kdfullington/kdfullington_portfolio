@@ -6,5 +6,5 @@ description: The technical portfolio for Kaylar Fullington
 
 Projects
 <li class="masthead__menu-item">
-    <a href="kdfullington.github.io/arima_modeling.html">Research</a>
+    <a href="kdfullington.github.io/kdfullington_portfolio/arima_modeling.html">Research</a>
 </li>
