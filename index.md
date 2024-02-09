@@ -4,3 +4,7 @@ title: Programming Portfolio
 description: The technical portfolio for Kaylar Fullington
 ---
 
+Arima Modeling Project 
+<li class="masthead__menu-item">
+    <a href="kdfullington.github.io/arima_modeling.html">Arima Modeling</a>
+</li>
