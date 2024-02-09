@@ -17,3 +17,5 @@ description: The technical portfolio for Kaylar Fullington
 [KMeans Clustering Health Data](pages/kmeans_health.md)
 
 [Muddy Paws Rescue Predictions](pages/muddy_paws.md)
+
+[Classifying Handwritten Numbers](pages/number_image_class.md)
