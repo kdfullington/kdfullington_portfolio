@@ -19,3 +19,5 @@ description: The technical portfolio for Kaylar Fullington
 [Muddy Paws Rescue Predictions](pages/muddy_paws.md)
 
 [Classifying Handwritten Numbers](pages/number_image_class.md)
+
+[Working with Petfinder API](pages/petfinder_api.md)
