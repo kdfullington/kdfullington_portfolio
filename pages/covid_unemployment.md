@@ -57,10 +57,12 @@ After splitting off the data intosections and years, I used the sections to crea
 
 
 2020 Unemployment
+
 ![Graph2](assets/images/covid_unemp_gen&race2020.jpeg)
 
 
 2021 Unemployment
+
 ![Graph3](assets/images/covid_unemp_gen&race2021.jpeg)
 
 
