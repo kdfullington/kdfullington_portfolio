@@ -22,6 +22,6 @@ description: The technical portfolio for Kaylar Fullington
 
 [Working with Petfinder API](pages/petfinder_api.md)
 
-[Predicting Miles per Gallong](pages/predicting_mpg.md)
+[Predicting Miles per Gallon](pages/predicting_mpg.md)
 
 [Movie Review Text Analysis](pages/text_analysis_movie_reviews.md)
