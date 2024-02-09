@@ -25,3 +25,5 @@ description: The technical portfolio for Kaylar Fullington
 [Predicting Miles per Gallon](pages/predicting_mpg.md)
 
 [Movie Review Text Analysis](pages/text_analysis_movie_reviews.md)
+
+[Weather Lookup Program](pages/weather_lookup.md)
