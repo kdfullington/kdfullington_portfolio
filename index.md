@@ -4,6 +4,6 @@ title: Programming Portfolio
 description: The technical portfolio for Kaylar Fullington
 ---
 
-[About Page](about.md)
+[About Page](pages/about.md)
 
-[Arima Modeling Project](arima_modeling.md)
+[Arima Modeling Project](pages/arima_modeling.md)
