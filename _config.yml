@@ -8,6 +8,9 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
+
+theme: jekyll-theme-cayman
+
 title : kdfullington_portfolio
 author :
   name : Kaylar Fullington
