@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Kaylar Fullington's Portfolio
-tagline: Technology Professional
+title: Programming Portfolio
 description: The technical portfolio for Kaylar Fullington
 ---
 
