@@ -21,3 +21,5 @@ description: The technical portfolio for Kaylar Fullington
 [Classifying Handwritten Numbers](pages/number_image_class.md)
 
 [Working with Petfinder API](pages/petfinder_api.md)
+
+[Predicting Miles per Gallong](pages/predicting_mpg.md)
