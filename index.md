@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kaylar Fullington's Portfolio
-tagline: test_tagline'
+tagline: Technology Professional
 description: The technical portfolio for Kaylar Fullington
 ---
 
