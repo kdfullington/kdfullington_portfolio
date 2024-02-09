@@ -4,4 +4,4 @@ title: Arima Modeling Project
 description: Image
 ---
 
-test text
+![retail sales graph](assets/images/arima_sales_graph.png)
