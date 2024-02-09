@@ -13,3 +13,5 @@ description: The technical portfolio for Kaylar Fullington
 [Game Attendance](pages/dodgers_attendance.md)
 
 [Web Scraping Dog Breeds](pages/dog_breed_scraping.md)
+
+[KMeans Clustering Health Data](pages/kmeans_health.md)

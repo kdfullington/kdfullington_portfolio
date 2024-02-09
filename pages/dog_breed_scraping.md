@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Attendance at Dodgers Games"
+title: "Dog Breed Web Scraping"
 permalink: https://kdfullington.github.io/dog_breed_scraping
 ---
 
