@@ -8,4 +8,4 @@ permalink: https://kdfullington.github.io/arima_modeling
 
 See the graph below:
 
-![Graph]({{site.BASE_PATH}}/images/arima_sales_graph.jpeg "Graph 1")
+![Graph](https://github.com/kdfullington/kdfullington_portfolio/blob/gh-pages/images/arima_sales_graph.jpeg)
