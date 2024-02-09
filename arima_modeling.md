@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arima Modeling Project
-description: Image
+permalink: https://kdfullington.github.io/arima_modeling
 ---
 
-test text
+![Sales graph](assets/images/arima_sales_graph.png)
