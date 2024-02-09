@@ -15,3 +15,5 @@ description: The technical portfolio for Kaylar Fullington
 [Web Scraping Dog Breeds](pages/dog_breed_scraping.md)
 
 [KMeans Clustering Health Data](pages/kmeans_health.md)
+
+[Muddy Paws Rescue Predictions](pages/muddy_paws.md)
