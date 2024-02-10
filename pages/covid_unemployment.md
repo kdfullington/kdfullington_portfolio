@@ -4,6 +4,10 @@ title: "Covid Unemployment Project - R"
 permalink: https://kdfullington.github.io/covid_unemployment
 ---
 
+[Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)
+
+[Visit the Repository for This Project](https://github.com/kdfullington/kdfullington-portfolio/tree/main/covid_unemployment)
+
 **Unemployment During the Covid-19 Pandemic**
 
 **Introduction**
