@@ -10,4 +10,4 @@ permalink: https://kdfullington.github.io/kdfullington_portfolio/arima_modeling
 
 See the graph below:
 
-![Graph](/assets/images/arima_sales_graph.jpeg)
+![Graph](/assets/images/arima_sales_graph.png)
