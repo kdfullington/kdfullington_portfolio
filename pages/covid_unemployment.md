@@ -57,7 +57,7 @@ After splitting off the data intosections and years, I used the sections to crea
 
 2019 Unemployment
 
-![Graph](assets/images/covid_unemp_gen&race2019.jpeg)
+![Graph](kdfullington_portfolio\assets\images\covid_unemp_gen&race2019.jpeg.jpeg)
 
 
 2020 Unemployment
