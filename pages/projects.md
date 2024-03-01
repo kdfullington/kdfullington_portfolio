@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-permalink: https://kdfullington.github.io/projects
+permalink: /projects/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

@@ -12,7 +12,7 @@ description: The technical portfolio for Kaylar Fullington
 
 <!-- [Projects](pages/projects.md) -->
 
-[Projects](./pages/projects.md)
+[Projects](pages/projects.md)
 
 <!-- **Projects**
 
