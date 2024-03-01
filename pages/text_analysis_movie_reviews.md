@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Analyzing Movie Reviews"
-permalink: https://kdfullington.github.io/text_analysis_movie_reviews
+permalink: /text_analysis_movie_reviews/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Calling the Petfinder API"
-permalink: https://kdfullington.github.io/petfinder_api
+permalink: /petfinder_api/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

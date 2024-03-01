@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Program to Look Up the Weather"
-permalink: https://kdfullington.github.io/weather_lookup
+permalink: /weather_lookup/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

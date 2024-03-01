@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Predicting Miles per Gallon"
-permalink: https://kdfullington.github.io/predicting_mpg
+permalink: /predicting_mpg
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

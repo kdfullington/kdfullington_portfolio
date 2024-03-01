@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Classifying Hand-written Numbers"
-permalink: https://kdfullington.github.io/number_classification
+permalink: /number_classification/s
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

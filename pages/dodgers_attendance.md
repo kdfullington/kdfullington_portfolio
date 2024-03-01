@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Attendance at Dodgers Games"
-permalink: https://kdfullington.github.io/dodgers_attendance
+permalink: /dodgers_attendance/
 ---
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)
 

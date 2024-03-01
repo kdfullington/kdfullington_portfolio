@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Covid Unemployment Project - R"
-permalink: https://kdfullington.github.io/projects/covid_unemployment
+permalink: /covid_unemployment/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

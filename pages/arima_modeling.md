@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Arima Modeling Project"
-permalink: https://kdfullington.github.io/kdfullington_portfolio/arima_modeling
+permalink: /arima_modeling/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

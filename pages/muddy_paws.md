@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Predicting Dog Length of Stay"
-permalink: https://kdfullington.github.io/muddy_paws
+permalink: /muddy_paws/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)
