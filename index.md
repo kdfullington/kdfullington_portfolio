@@ -14,7 +14,7 @@ description: The technical portfolio for Kaylar Fullington
 
 [Projects](pages/projects.md)
 
-**Projects**
+<!-- **Projects**
 
 [Arima Modeling Project](pages/arima_modeling.md)
 
@@ -36,4 +36,4 @@ description: The technical portfolio for Kaylar Fullington
 
 [Movie Review Text Analysis](pages/text_analysis_movie_reviews.md)
 
-[Weather Lookup Program](pages/weather_lookup.md)
+[Weather Lookup Program](pages/weather_lookup.md) -->
