@@ -4,6 +4,8 @@ title: "Certifications"
 permalink: /certifications/
 ---
 
+[<span style="color: #FF0000; font-weight: bold;">Back to Home Page</span>](https://kdfullington.github.io/kdfullington_portfolio/)
+
 See below for a list of my current certifications:
 
 International Institute of Business Analysis Agile Analysis Certification
@@ -12,4 +14,3 @@ International Institute of Business Analysis Agile Analysis Certification
 
 [Link to Credential](https://badges.iiba.org/fd885129-069e-4384-a66d-80f106451167)
 
-[Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)
