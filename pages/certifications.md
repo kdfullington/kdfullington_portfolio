@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: "Certifications"
 permalink: https://kdfullington.github.io/certifications
 ---
 
