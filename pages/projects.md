@@ -8,24 +8,24 @@ permalink: /projects/
 
 
 [Arima Modeling Project](./arima_modeling.md)
-<!--  -->
-<!-- [Covid-19 Unemployment Project](pages/projects/covid_unemployment.md) -->
 
-<!-- [Game Attendance](pages/dodgers_attendance.md) -->
-<!--  -->
-<!-- [Web Scraping Dog Breeds](pages/dog_breed_scraping.md) -->
-<!--  -->
-<!-- [KMeans Clustering Health Data](pages/kmeans_health.md) -->
-<!--  -->
-<!-- [Muddy Paws Rescue Predictions](pages/muddy_paws.md) -->
-<!--  -->
-<!-- [Classifying Handwritten Numbers](pages/number_image_class.md) -->
-<!--  -->
-<!-- [Working with Petfinder API](pages/petfinder_api.md) -->
-<!--  -->
-<!-- [Predicting Miles per Gallon](pages/predicting_mpg.md) -->
-<!--  -->
-<!-- [Movie Review Text Analysis](pages/text_analysis_movie_reviews.md) -->
-<!--  -->
-<!-- [Weather Lookup Program](pages/weather_lookup.md) -->
+[Covid-19 Unemployment Project](./covid_unemployment.md)
+
+[Game Attendance](./dodgers_attendance.md)
+
+[Web Scraping Dog Breeds](./dog_breed_scraping.md)
+
+[KMeans Clustering Health Data](./kmeans_health.md)
+
+[Muddy Paws Rescue Predictions](./muddy_paws.md)
+
+[Classifying Handwritten Numbers](./number_image_class.md)
+
+[Working with Petfinder API](./petfinder_api.md)
+
+[Predicting Miles per Gallon](./predicting_mpg.md)
+
+[Movie Review Text Analysis](./text_analysis_movie_reviews.md)
+
+[Weather Lookup Program](./weather_lookup.md)
 
