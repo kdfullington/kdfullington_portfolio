@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-[Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)
+[<span style="color: #FF0000; font-weight: bold;">Back to Home Page</span>](https://kdfullington.github.io/kdfullington_portfolio/)
 
 
 [Arima Modeling Project](./arima_modeling.md)
