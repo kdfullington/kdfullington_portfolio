@@ -8,7 +8,7 @@ description: The technical portfolio for Kaylar Fullington
 
 [Contact](pages/contact.md)
 
-[Certifcations](pages/certifications.md)
+[Certifications](pages/certifications.md)
 
 <!-- [Projects](pages/projects.md) -->
 
