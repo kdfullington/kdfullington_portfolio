@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: https://kdfullington.github.io/about
+permalink: /about
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

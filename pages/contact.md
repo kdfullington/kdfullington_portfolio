@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact Information"
-permalink: https://kdfullington.github.io/contact
+permalink: /contact/
 ---
 
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)

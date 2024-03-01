@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Certifications"
-permalink: https://kdfullington.github.io/certifications
+permalink: /certifications/
 ---
 
 See below for a list of my current certifications:
