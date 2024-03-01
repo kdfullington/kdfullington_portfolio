@@ -12,6 +12,8 @@ description: The technical portfolio for Kaylar Fullington
 
 <!-- [Projects](pages/projects.md) -->
 
+[Projects](pages/projects.md)
+
 **Projects**
 
 [Arima Modeling Project](pages/arima_modeling.md)
