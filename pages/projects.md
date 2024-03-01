@@ -9,7 +9,7 @@ permalink: https://kdfullington.github.io/projects
 
 <!-- [Arima Modeling Project](pages/arima_modeling.md) -->
 
-[Covid-19 Unemployment Project](projects/pages/covid_unemployment.md)
+[Covid-19 Unemployment Project](../pages/covid_unemployment.md)
 
 <!-- [Game Attendance](pages/dodgers_attendance.md) -->
 <!--  -->
