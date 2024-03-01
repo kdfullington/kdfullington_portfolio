@@ -7,9 +7,9 @@ permalink: https://kdfullington.github.io/projects
 [Back to Home Page](https://kdfullington.github.io/kdfullington_portfolio/)
 
 
-<!-- [Arima Modeling Project](pages/arima_modeling.md) -->
-
-[Covid-19 Unemployment Project](pages/projects/covid_unemployment.md)
+[Arima Modeling Project](../arima_modeling.md)
+<!--  -->
+<!-- [Covid-19 Unemployment Project](pages/projects/covid_unemployment.md) -->
 
 <!-- [Game Attendance](pages/dodgers_attendance.md) -->
 <!--  -->
