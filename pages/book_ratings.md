@@ -111,8 +111,8 @@ To test the performance of the model, I entered three new books into the program
 
 Actual Ratings at Time of Project:
 ![Image](../assets/images/iron_widow_rating.png)
-![Image](..assets/images/lwtsap_rating.png)
-![Image](..assets/images/tress_rating.png)
+![Image](../assets/images/lwtsap_rating.png)
+![Image](../assets/images/tress_rating.png)
 
 | Title                                   | Predicted Rating | Actual Rating |
 |-----------------------------------------|-------------------|---------------|
