@@ -8,6 +8,8 @@ permalink: /arima_modeling/
 
 [Visit the Repository for This Project](https://github.com/kdfullington/kdfullington-portfolio/tree/main/arima_model_retail_sales)
 
-See the graph below:
+
+In this project I performed a time series analysis for a data set containing monthly retail sales. The graph below a visualization from this project. Check out my repository for the technical details.
+
 
 ![Graph](../assets/images/arima_sales_graph.png)
